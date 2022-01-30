@@ -1,1 +1,1 @@
-# Javascript and Reactjs BOOTCAMP
+# Javascript and Reactjs
